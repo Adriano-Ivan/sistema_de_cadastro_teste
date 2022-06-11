@@ -5,6 +5,6 @@
 Para rodar, por favor digite
 
 ````
-npm install react
+node teste.js
 
 ````
